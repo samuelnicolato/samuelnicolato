@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samuelnicolato
-- 👀 I’m interested in: Having experiences and learn more and more
-- 🌱 I’m currently learning: Python, SQL, Full Stack Javascript
+- 👀 I’m interested in: Having experiences and learn more
+- 🌱 I’m currently learning: Python, SQL, Full Stack 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
 - 😄 Pronouns: He/Him
