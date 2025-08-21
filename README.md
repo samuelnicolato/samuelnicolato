@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samuelnicolato
 - 👀 I’m interested in: Having experiences and learn more
-- 🌱 I’m currently learning: Python, Java, SQL.
+- 🌱 I’m currently learning: Python, Java, SQL and Linux.
 - 💞️ I’m looking to collaborate on anything I can learn and be useful.
 - 📫 How to reach me: @samuelnicolato on IG or @samael_tfo on Telegram
 - 😄 Pronouns: He/Him
