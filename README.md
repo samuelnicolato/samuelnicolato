@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @samuelnicolato
 - 👀 I’m interested in: Having experiences and learn more
-- 🌱 I’m currently learning: Python, SQL, Full Stack 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me:
+- 🌱 I’m currently learning: Python, Java, SQL.
+- 💞️ I’m looking to collaborate on anything I can learn and be useful.
+- 📫 How to reach me: @samuelnicolato on IG or @samael_tfo on Telegram
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm also a Photographer and a fast learner, who loves gym and nutrition.
+- ⚡ Fun fact: I'm also a Photographer, who loves gym and nutrition.
 
 <!---
 samuelnicolato/samuelnicolato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
